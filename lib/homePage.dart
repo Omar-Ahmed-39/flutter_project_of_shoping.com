@@ -57,7 +57,7 @@ class Homepage extends StatelessWidget {
                 Categorise(icon: Icon(Icons.battery_full_sharp), ontap: (){}, text: "Battery"),
                 Categorise(icon: Icon(Icons.pedal_bike), ontap: (){}, text: "Bike"),
                 Categorise(icon: Icon(Icons.card_giftcard), ontap: (){}, text: "Gift"),
-                Categorise(icon: Icon(Icons.cable_sharp), ontap: (){}, text: "Cable"),
+                Categorise(icon: Icon(Icons.cable_sharp), ontap: (){}, text: "Cable "),
                
                 
               
